@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario contrasena="123456" nombre="ivan"/>
+  <usuario contrasena="12345" nombre="julio"/>
+  <usuario contrasena="12345678" nombre="cesar"/>
+  <usuario contrasena="123456" nombre="dario"/>
+</usuarios>
